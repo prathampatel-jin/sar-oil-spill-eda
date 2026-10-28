@@ -25,4 +25,4 @@ This repository contains an Exploratory Data Analysis (EDA) and a baseline Convo
 5. Run the training script: `python src/train_model.py`
 
 ## Full Report
-Detailed EDA findings, statistical outliers, and model performance interpretations can be found in the [Google Docs Report Here](.https://docs.google.com/document/d/1pqIVngSQ6B8h9rZ_Mwt6EJSphsv-ngbXQYSD9PibVEc/edit?usp=sharing).
+Detailed EDA findings, statistical outliers, and model performance interpretations can be found in the(.https://docs.google.com/document/d/1pqIVngSQ6B8h9rZ_Mwt6EJSphsv-ngbXQYSD9PibVEc/edit?usp=sharing).
